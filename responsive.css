@@ -1,0 +1,174 @@
+@media (max-width:600px) {
+
+    .ri-menu-fill{
+        display: block;
+        margin-top: 22%;
+    }
+
+    .ri-menu-fill:hover{
+        color: whitesmoke;
+    }
+
+    .profile{
+        margin-right: 3%;
+        margin-top: 4%;
+        gap: 10px;
+    }
+    
+    .ri-account-circle-line{
+        font-size: 30px;
+        margin-top: 7%;
+    }
+
+    .profile >a{
+        display: none;
+    }
+
+    .items{
+        display: none;
+    }
+
+    h3{
+        font-size: 20px;
+        margin-top: 15%;
+        margin-left: 10%;
+    }
+
+    h1{
+        font-size: 50px;
+        margin-top: 10%;
+        margin-left: 8%;
+    }
+
+    h2{
+        font-size: 20px;
+        margin-left: 8%;
+    }
+
+    p{
+        margin-left: 8%;
+        margin-top: 5%;
+        font-size: 15px
+        
+    }
+
+    .rm{
+        padding: 5px 10px;
+        font-size: 15px;
+        margin-top: 5%;
+        margin-left: 8%;
+    }
+
+    .page2{
+        height: 600%;
+        width: 100%;
+        padding: 50px 0 30px 0;
+    }
+
+    .boxx1{
+        flex-direction: column;
+        height: 100%;
+        width: 100%;
+    }
+
+    .boxx2{
+        flex-direction: column;
+        height: 100%;
+        width: 100%;
+    }
+
+
+    .boxx3{
+        flex-direction: column;
+        height: 100%;
+        width: 100%;
+    }
+
+    .boxxx1{
+        height: 80%;
+        width: 80%;
+    }
+
+    .boxxx2{
+        height: 80%;
+        width: 80%;
+    }
+
+
+    .boxxx3{
+        height: 80%;
+        width: 80%;
+    }
+
+
+    .boxxx4{
+        height: 80%;
+        width: 80%;
+    }
+
+
+    .boxxx5{
+        height: 80%;
+        width: 80%;
+    }
+
+
+    .boxxx11{
+        height: 80%;
+        width: 80%;
+    }
+
+    .boxxx22{
+        height: 80%;
+        width: 80%;
+    }
+
+    .boxxx33{
+        height: 80%;
+        width: 80%;
+    }
+
+    .boxxx44{
+        height: 80%;
+        width: 80%;
+    }
+
+    .boxxx55{
+        height: 80%;
+        width: 80%;
+    }
+
+    .boxxx111{
+        height: 80%;
+        width: 80%;
+    }
+
+    .boxxx222{
+        height: 80%;
+        width: 80%;
+    }
+
+    .boxxx333{
+        height: 80%;
+        width: 80%;
+    }
+
+    .boxxx444{
+        height: 80%;
+        width: 80%;
+    }
+
+    .boxxx555{
+        height: 80%;
+        width: 80%;
+    }
+
+
+
+
+    
+
+
+
+    
+}
